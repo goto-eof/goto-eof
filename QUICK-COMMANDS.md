@@ -11,4 +11,4 @@ Here are some usefull commands (it's for me (= )
 
 
 #Docker
-- `docker system prune'
+- `docker system prune' - clean docker
