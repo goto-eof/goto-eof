@@ -15,7 +15,7 @@ P.S. it's for me (=
 # Docker
 - `docker system prune` - clean docker
 
-## install docker and docker-compose
+## install docker and docker-compose
 - `sudo yum update -y`
 - `sudo amazon-linux-extras install docker`
 - `sudo service docker start`
