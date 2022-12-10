@@ -15,6 +15,9 @@ P.S. it's for me (=
 # Docker
 - `docker system prune` - clean docker
 
+## rebuild docker image
+- `docker-compose up -d --no-deps --build`
+
 ## install docker and docker-compose
 - `sudo yum update -y`
 - `sudo amazon-linux-extras install docker`
@@ -26,4 +29,4 @@ P.S. it's for me (=
 
 # Sea-ORM
 ## Generate entities from schema
-- sea-orm-cli generate entity -u postgres://postgres:postgres@127.0.0.1:5432/postgres -o entity/src
+- `sea-orm-cli generate entity -u postgres://postgres:postgres@127.0.0.1:5432/postgres -o entity/src`
