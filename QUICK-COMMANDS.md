@@ -1,5 +1,7 @@
 
-Here are some usefull commands (it's for me (= )
+Here are some usefull commands 
+
+P.S. it's for me (=
 
 # Git
 ### Push on 2 diferent repos
