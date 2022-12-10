@@ -1,5 +1,5 @@
 
-Here are some usefull commands (it's for me (: )
+Here are some usefull commands (it's for me (= )
 
 ### Push on 2 diferent repos
 - `git remote -v`
