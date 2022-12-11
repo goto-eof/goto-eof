@@ -52,6 +52,6 @@ screen -r SESSION_NAME
 Ctrl + A + D
 ```
 
-## Kubernetes
+## Kubernetes
 - start dashboard `microk8s dashboard-proxy`
 
