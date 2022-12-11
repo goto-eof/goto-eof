@@ -37,3 +37,18 @@ P.S. it's for me (=
 ```bash
 sudo nano /etc/motd
 ```
+
+## Screen
+- create sessions
+```bash
+screen -s SESSION_NAME
+```
+- restore sessions
+```bash
+screen -r SESSION_NAME
+```
+- exit from session
+```bash
+Ctrl + A + D
+```
+
