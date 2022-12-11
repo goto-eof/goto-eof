@@ -30,3 +30,10 @@ P.S. it's for me (=
 # Sea-ORM
 ## Generate entities from schema
 - `sea-orm-cli generate entity -u postgres://postgres:postgres@127.0.0.1:5432/postgres -o entity/src`
+
+
+# Linux
+## Change ssh welcome screen
+```bash
+sudo nano /etc/motd
+```
