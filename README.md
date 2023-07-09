@@ -1,5 +1,3 @@
-## Hello World 
-
 ![nature](nature.jpg)
 
 <p align="center"> 
