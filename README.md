@@ -2,7 +2,7 @@
 Hello, my name is Andrei and I am a full-stack application developer from the Italy.
   <details>
     <summary>My stats</summary>
-   <img src="https://github-readme-stats.vercel.app/api?username=goto-eof&show_icons=true&hide=[%22issues%22]&theme=classic" alt="goto-eof" /> 
+   <img src="https://github-readme-stats.vercel.app/api?username=goto-eof&show_icons=true&hide=[%22issues%22]&theme=dark" alt="goto-eof" /> 
   </details>
 
 <!--![green](green.jpg)-->
