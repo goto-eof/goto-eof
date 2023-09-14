@@ -1,6 +1,9 @@
-<!--
-I'm Andrei Dodu an Open-source application developer from the Italy.
--->
+
+Hello, my name is Andrei and I am a Open-source application developer from the Italy.
+  <details>
+    <summary>Some facts about me</summary>
+   <img src="https://github-readme-stats.vercel.app/api?username=goto-eof&show_icons=true&hide=[%22issues%22]&theme=radical" alt="highflyer910" /> 
+  </details>
 
 <!--![green](green.jpg)-->
 
