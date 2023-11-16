@@ -1,6 +1,7 @@
 
 Hello, my name is Andrei and I am a full-stack software developer from Italy. 
-ùFor more info please visit [my website](https://andre-i.eu).
+
+For more info please visit [my website](https://andre-i.eu).
  <!-- <details>
     <summary>My stats</summary>
    <img src="https://github-readme-stats.vercel.app/api?username=goto-eof&show_icons=true&hide=[%22issues%22]&theme=dark" alt="goto-eof" /> 
