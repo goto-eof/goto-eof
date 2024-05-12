@@ -1,7 +1,7 @@
 
 Hello, my name is Andrei and I am a full-stack software developer from Italy. 
 
-For more info please visit [my website](https://andre-i.eu) (I keep it updated).   <img src="https://andre-i.eu:8080/api/v1/ipResource/github.png" />
+For more info please visit [my website](https://andre-i.eu) (I keep it updated).   <img src="https://andre-i.eu:8080/api/v1/ipResource/github.png?a=1" />
 
 
 <p align="center">
