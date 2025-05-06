@@ -1,5 +1,5 @@
 
-Hello, my name is Andrei and I am a full-stack software developer from Italy. 
+Hey there! I'm Andrei, a full-stack developer from Italy with a passion for transforming ideas into robust, user-friendly applications.
 
 For more info please visit [my website](https://andre-i.eu) (I keep it updated).
 
