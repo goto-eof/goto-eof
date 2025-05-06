@@ -1,8 +1,7 @@
 
 Hey there! I'm Andrei, a full-stack developer from Italy with a passion for transforming ideas into robust, user-friendly applications.
 
-For more info please visit [my website](https://andre-i.eu) (I keep it updated).
-
+For more info please visit [my website](https://andre-i.eu) (I keep it updated).  <img src="https://andre-i.eu/api/v1/ipResource/github.png?a=13" onerror="this.style.display='none'" />
 <!--
 <p align="center">
   <img src="https://andre-i.eu/api/v1/ipResource/github.png?a=13" onerror="this.style.display='none'" />
